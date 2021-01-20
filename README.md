@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dem0ns/dem0ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 工控互联网安全从业者
+- 🌱 不断学习中
