@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 - 🔭 工控互联网安全从业者
+- 🤔 多个SRC漏洞挖掘
 - 🌱 不断学习中
+- 😄 欢迎交流
